@@ -9,9 +9,7 @@ class App extends React.Component{
     return (
 
       <div>
-        <h1>Login</h1>
-        <h1>Sign Up</h1>
-        <img className="homepicture" src="images/doctorpic.jpg" alt="doctorpichome" /> 
+        <Home />
     </div>
     )
     
