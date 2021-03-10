@@ -46,7 +46,7 @@
 }
 .login{
   position: absolute;
-  width: 50px;
+  width: 80px;
   height: 35px;
   left: 1170px;
   top: 17px;
@@ -62,9 +62,9 @@
 }
 .signup{
   position: absolute;
-  width: 65px;
+  width: 80px;
   height: 35px;
-  left: 1240px;
+  left: 1270px;
   top: 17px;
 
   font-family: Roboto;
