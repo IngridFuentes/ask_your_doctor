@@ -76,3 +76,31 @@
   color: #000000;
 
 }
+.first-home-quote{
+
+  position: absolute;
+  width: 500px;
+  height: 30px;
+  left: 470px;
+  top: 500px;
+
+  font-family: Sanchez;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 23px;
+}
+.second-home-quote{
+  position: absolute;
+  width: 500px;
+  height: 30px;
+  left: 590px;
+  top: 540px;
+
+  font-family: Sanchez;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 23px;
+
+}
